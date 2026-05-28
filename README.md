@@ -1,2 +1,1 @@
-# Serial-Lookup
-Ce petit script en Python vous permet tout simplement de faire des recherches extrêmement rapidement dans des dossiers dotés de fichiers texte ou autre (le code peut rechercher dans tout type de fichier). Un outil utile si vous possédez énormément de fichiers texte (pour une certaine communauté de discord, on sait très bien à quoi va vous servir cet outil😉)
+🔎 Serial-file-searcher est un petit script Python conçu pour effectuer des recherches extrêmement rapides dans des dossiers contenant des fichiers texte ou tout autre type de fichier. Un outil pratique et efficace pour retrouver facilement des informations parmi un grand nombre de fichiers.
